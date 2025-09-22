@@ -1,5 +1,7 @@
 services:
   app:
-    build: . # Default
+    build:
+      context: .
+      dockerfile: Dockerfile.mps  # Mac の場合は MPS(or CPU) 用
     volumes:
-      - ./src:/app/src # ローカルのsrcをコンテナの/app/srcにマウント
+      - ./src:/app/src
