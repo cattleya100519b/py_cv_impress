@@ -1,7 +1,7 @@
 ## Book
 - [Pythonで学ぶ画像認識](https://book.impress.co.jp/books/1122101074)
 - [GitHub](https://github.com/py-img-recog/python_image_recognition)
-- Purchase Date: YYMMDD (DRMfree)
+- Purchase Date: 230927 (DRMfree)
 
 <img src="https://img.ips.co.jp/ij/22/1122101074/1122101074-520x.jpg" height="150px">
 

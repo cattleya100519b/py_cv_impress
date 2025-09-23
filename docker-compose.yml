@@ -2,6 +2,6 @@ services:
   app:
     build:
       context: .
-      dockerfile: Dockerfile.mps  # Mac の場合は MPS(or CPU) 用
+      dockerfile: Dockerfile.cpu  # Mac の場合は CPU 用 (MPS は現在 Docker からは使用不可)
     volumes:
       - ./src:/app/src
