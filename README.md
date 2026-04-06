@@ -3,7 +3,7 @@
 - [GitHub](https://github.com/py-img-recog/python_image_recognition)
 - Purchase Date: 230927 (DRMfree)
 
-<img src="https://img.ips.co.jp/ij/22/1122101074/1122101074-520x.jpg" height="150px">
+<img src="https://user-images.githubusercontent.com/55578738/222943631-e4b3e5d4-e856-4c05-aaa9-3ee26ce5e804.jpg" height="150px">
 
 ## CheckList
 - [ ] **第1章　画像認識とは？**  
